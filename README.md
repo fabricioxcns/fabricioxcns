@@ -4,24 +4,15 @@
 System.out.println("Hello World, I'm Fabricio...");
 ```
 
-🎓 Software Engineering Student from Brazil 🇧🇷
+Software Engineering Student focused on Java development and web applications... Currently working on new projects and improving my software engineering skills.:.:::..:::.
 
-💻 Full Stack Developer
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 </p>
 
-🚀 Building websites and web systems
-
-📚 Studying Software Architecture & System Design
-
-```javascript
-console.log("Take a look at my projects!");
+```python
+print("Take a look at my projects!")
 ```
-
-
